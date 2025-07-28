@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Ashutosh, a Senior DevOps Engineer (Development, DevOps, Platform Engineering) from 🇮🇳   passionate about developing production-ready applications with 6+ years of professional onsite as well as remote working experience. 🎯
+Hi There 👋<br>I am Ashutosh, a Senior DevOps Engineer (Development, DevOps, Platform Engineering) from 🇮🇳   passionate about developing production-ready applications with 6+ years of professional onsite as well as remote working experience. 🎯
 
 
 ## 🌐 Socials:
