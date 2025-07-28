@@ -20,10 +20,8 @@ Hi There 👋<br>I am Ashutosh, a Senior DevOps Engineer (Development, DevOps, P
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashubambal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ashubambal&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![snake gif](https://github.com/ashubambal/ashubambal/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
